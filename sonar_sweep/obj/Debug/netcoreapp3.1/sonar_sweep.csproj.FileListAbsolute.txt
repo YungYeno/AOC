@@ -1,0 +1,12 @@
+/Users/yeno/Documents/GitHub/AOC/sonar_sweep/bin/Debug/netcoreapp3.1/sonar_sweep.deps.json
+/Users/yeno/Documents/GitHub/AOC/sonar_sweep/bin/Debug/netcoreapp3.1/sonar_sweep.runtimeconfig.json
+/Users/yeno/Documents/GitHub/AOC/sonar_sweep/bin/Debug/netcoreapp3.1/sonar_sweep.runtimeconfig.dev.json
+/Users/yeno/Documents/GitHub/AOC/sonar_sweep/bin/Debug/netcoreapp3.1/sonar_sweep.dll
+/Users/yeno/Documents/GitHub/AOC/sonar_sweep/bin/Debug/netcoreapp3.1/sonar_sweep.pdb
+/Users/yeno/Documents/GitHub/AOC/sonar_sweep/obj/Debug/netcoreapp3.1/sonar_sweep.csprojAssemblyReference.cache
+/Users/yeno/Documents/GitHub/AOC/sonar_sweep/obj/Debug/netcoreapp3.1/sonar_sweep.AssemblyInfoInputs.cache
+/Users/yeno/Documents/GitHub/AOC/sonar_sweep/obj/Debug/netcoreapp3.1/sonar_sweep.AssemblyInfo.cs
+/Users/yeno/Documents/GitHub/AOC/sonar_sweep/obj/Debug/netcoreapp3.1/sonar_sweep.csproj.CoreCompileInputs.cache
+/Users/yeno/Documents/GitHub/AOC/sonar_sweep/obj/Debug/netcoreapp3.1/sonar_sweep.dll
+/Users/yeno/Documents/GitHub/AOC/sonar_sweep/obj/Debug/netcoreapp3.1/sonar_sweep.pdb
+/Users/yeno/Documents/GitHub/AOC/sonar_sweep/obj/Debug/netcoreapp3.1/sonar_sweep.genruntimeconfig.cache

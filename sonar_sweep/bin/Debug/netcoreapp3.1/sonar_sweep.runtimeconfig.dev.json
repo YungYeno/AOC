@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/yeno/.dotnet/store/|arch|/|tfm|",
+      "/Users/yeno/.nuget/packages"
+    ]
+  }
+}
